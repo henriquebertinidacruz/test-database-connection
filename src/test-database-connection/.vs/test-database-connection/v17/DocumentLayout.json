@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos C#\\test-database-connection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6873AFB6-A75B-4A3C-AEB2-9E243AB6E497}|test-database-connection\\test-database-connection.csproj|c:\\projetos c#\\test-database-connection\\test-database-connection\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6873AFB6-A75B-4A3C-AEB2-9E243AB6E497}|test-database-connection\\test-database-connection.csproj|solutionrelative:test-database-connection\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6873AFB6-A75B-4A3C-AEB2-9E243AB6E497}|test-database-connection\\test-database-connection.csproj|c:\\projetos c#\\test-database-connection\\test-database-connection\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6873AFB6-A75B-4A3C-AEB2-9E243AB6E497}|test-database-connection\\test-database-connection.csproj|solutionrelative:test-database-connection\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Projetos C#\\test-database-connection\\test-database-connection\\Form1.cs",
+              "RelativeDocumentMoniker": "test-database-connection\\Form1.cs",
+              "ToolTip": "C:\\Projetos C#\\test-database-connection\\test-database-connection\\Form1.cs [Projeto]",
+              "RelativeToolTip": "test-database-connection\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T22:32:27.397Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Projetos C#\\test-database-connection\\test-database-connection\\Form1.cs",
+              "RelativeDocumentMoniker": "test-database-connection\\Form1.cs",
+              "ToolTip": "C:\\Projetos C#\\test-database-connection\\test-database-connection\\Form1.cs",
+              "RelativeToolTip": "test-database-connection\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T22:31:35.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
